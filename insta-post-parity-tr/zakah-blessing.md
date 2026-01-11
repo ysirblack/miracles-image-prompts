@@ -16,20 +16,20 @@ In massive, elegant, high-end Modern Serif font (Pure White):
 
 READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Zekât & Bereket: Mükemmel 32:32 Karşılıklılık"
+"Zekât & Bereket: Mükemmel 32:32 Denge"
 
 READ LAST (The List):
 A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Abundance Gold.
 
-"• زَكَاة (Zekât - farz sadaka): [32] token."
+"• زَكَاة (Zekât): [32] kez geçiyor."
 
-"• بَرَكَة (Bereket - ilahi nimet): [32] token."
+"• بَرَكَة (Bereket): [32] kez geçiyor."
 
-"• Mükemmel denge: [0] fark."
+"• Fark: [0] — birebir eşit."
 
 "• Sayım: Sadece isim formları."
 
-"• Sayılarda ilahi karşılıklılık."
+"• Ver ve al dengesi sayılarda da var."
 
 "• Zekât vermek = bereket almak."
 

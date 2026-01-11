@@ -21,9 +21,9 @@ In a refined, lighter weight italic Serif font (Silver/Grey):
 READ LAST (The List):
 A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Cosmic Silver.
 
-"• مَلَك / مَلَائِكَة (Malak/Angels): [88] tokens."
+"• مَلَك / مَلَائِكَة (Malak/Angels): mentioned [88] times."
 
-"• شَيْطَان / شَيَاطِين (Shaytan/Devils): [88] tokens."
+"• شَيْطَان / شَيَاطِين (Shaytan/Devils): mentioned [88] times."
 
 "• Perfect balance: [0] difference."
 

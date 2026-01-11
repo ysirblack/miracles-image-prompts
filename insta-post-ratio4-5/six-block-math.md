@@ -25,7 +25,7 @@ A bold, legible list of succinct facts using a sophisticated sans-serif font. Ke
 
 "• Blok 1: Sure 1-19. Blok 2: Sure 20-38. Ve devamı."
 
-"• 'Türdeş' sureleri say (konum & ayet aynı parite)."
+"• 'Eşleşen' sureleri say (konum & ayet ikisi tek veya ikisi çift)."
 
 "• Blok başına sonuçlar: [11], [12], [5], [8], [9], [12]."
 

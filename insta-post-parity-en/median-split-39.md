@@ -16,12 +16,12 @@ In massive, elegant, high-end Modern Serif font (Pure White):
 
 READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"57/57 Split: Gap at the Median Boundary"
+"57/57 Split: Gap at the Exact Middle"
 
 READ LAST (The List):
 A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Boundary Gold.
 
-"• Median verse count: Between [39] and [40]."
+"• Sort 114 surahs by verse count: exact middle is [39-40]."
 
 "• No surah has exactly [39] verses."
 

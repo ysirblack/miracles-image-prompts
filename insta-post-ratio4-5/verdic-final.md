@@ -3,7 +3,7 @@ Prompt: aspect_ratio="4:5"
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
 
-Visual Anchor (Top 40%): A stunning, conceptual visualization of "The Architected Code." The ancient manuscript lies open, with the Holographic Lattice rising upwards, filling the upper section with complex data nodes.
+Visual Anchor (Top 40%): A stunning, conceptual visualization of "The Architected Code." The ancient manuscript but in perfect state - clean - no deformation - first hand very preserved state, lies open, with the Holographic Lattice rising upwards, filling the upper section with complex data nodes.
 
 Negative Space (Bottom 60%): The holographic glow fades seamlessly downwards into a clean, deep Data Void, creating a massive pitch-black canvas at the bottom.
 

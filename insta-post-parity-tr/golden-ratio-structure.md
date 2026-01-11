@@ -27,11 +27,11 @@ A bold, legible list using a sophisticated sans-serif font. Key numbers are acce
 
 "• Tekil örnek: Sure 1 (1+7=[8]) — başka sure 8'e ulaşmıyor."
 
-"• Tekrar eden grup: [74] sure → [7.906] ayet."
+"• Tekrar eden grup: [74] sure, toplam [7.906] ayet."
 
-"• Tekil grup: [40] sure → [4.885] ayet."
+"• Tekil grup: [40] sure, toplam [4.885] ayet."
 
-"• Oran: 7906÷4885 = [1,618424] ≈ Altın Oran [1,618034]."
+"• Oran: 7906÷4885 = [1,618] ≈ Altın Oran φ."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:

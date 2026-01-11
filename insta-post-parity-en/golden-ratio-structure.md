@@ -27,11 +27,11 @@ A bold, legible list using a sophisticated sans-serif font. Key numbers are acce
 
 "• Example unique: Surah 1 (1+7=[8]) — no other surah sums to 8."
 
-"• Repeating group: [74] surahs → [7,906] verses."
+"• Repeating group: [74] surahs, total [7,906] verses."
 
-"• Unique group: [40] surahs → [4,885] verses."
+"• Unique group: [40] surahs, total [4,885] verses."
 
-"• Ratio: 7906÷4885 = [1.618424] ≈ Golden Ratio [1.618034]."
+"• Ratio: 7906÷4885 = [1.618] ≈ Golden Ratio φ."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:

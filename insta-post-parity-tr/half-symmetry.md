@@ -21,17 +21,17 @@ In a refined, lighter weight italic Serif font (Silver/Grey):
 READ LAST (The List):
 A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Mirror Teal.
 
-"• İlk 57 sure: [28] türdeş, [29] türdeş olmayan."
+"• Kural: Konum ve ayet aynı parite ise 'eşleşen' (ikisi tek veya ikisi çift)."
 
-"• Son 57 sure: [29] türdeş, [28] türdeş olmayan."
+"• Örnek: Sure 2 (çift konum, 286 çift ayet) = Eşleşen ✓"
 
-"• Desen: [28/29] yer değiştirir [29/28]."
+"• İlk 57 sure: [28] eşleşen, [29] eşleşmeyen."
 
-"• Mükemmel ayna simetrisi: [28/29/29/28]."
+"• Son 57 sure: [29] eşleşen, [28] eşleşmeyen — Ayna!"
 
-"• Toplam türdeş: 28+29 = [57]."
+"• Desen: 28/29 ↔ 29/28. Sayılar yer değiştirir."
 
-"• Toplam türdeş olmayan: 29+28 = [57]."
+"• Toplam: 57 eşleşen, 57 eşleşmeyen."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:

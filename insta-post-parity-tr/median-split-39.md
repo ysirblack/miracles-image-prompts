@@ -16,12 +16,12 @@ In massive, elegant, high-end Modern Serif font (Pure White):
 
 READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"57/57 Bölünme: Medyan Sınırında Boşluk"
+"57/57 Bölünme: Tam Ortada Boşluk"
 
 READ LAST (The List):
 A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Boundary Gold.
 
-"• Medyan ayet sayısı: [39] ile [40] arasında."
+"• 114 sureyi ayet sayısına göre sırala: tam orta [39-40] arası."
 
 "• Hiçbir surenin ayet sayısı tam olarak [39] değil."
 

@@ -16,20 +16,20 @@ In massive, elegant, high-end Modern Serif font (Pure White):
 
 READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Zakah & Blessing: Perfect 32:32 Reciprocity"
+"Zakah & Blessing: Perfect 32:32 Balance"
 
 READ LAST (The List):
 A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Abundance Gold.
 
-"• زَكَاة (Zakah - obligatory charity): [32] tokens."
+"• زَكَاة (Zakah - charity): mentioned [32] times."
 
-"• بَرَكَة (Barakah - divine blessing): [32] tokens."
+"• بَرَكَة (Barakah - blessing): mentioned [32] times."
 
-"• Perfect balance: [0] difference."
+"• Difference: [0] — exactly equal."
 
 "• Counting: Noun forms only."
 
-"• Divine reciprocity in numbers."
+"• Give and receive — balanced in numbers too."
 
 "• Giving charity = receiving blessing."
 

@@ -21,9 +21,9 @@ In a refined, lighter weight italic Serif font (Silver/Grey):
 READ LAST (The List):
 A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Cosmic Silver.
 
-"• مَلَك / مَلَائِكَة (Melek/Melekler): [88] token."
+"• مَلَك / مَلَائِكَة (Melek/Melekler): [88] kez geçiyor."
 
-"• شَيْطَان / شَيَاطِين (Şeytan/Şeytanlar): [88] token."
+"• شَيْطَان / شَيَاطِين (Şeytan/Şeytanlar): [88] kez geçiyor."
 
 "• Mükemmel denge: [0] fark."
 

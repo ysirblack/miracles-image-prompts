@@ -23,9 +23,9 @@ A bold, legible list using a sophisticated sans-serif font. Key numbers are acce
 
 "• Total: [114] surahs (divides into 57 Odd / 57 Even)."
 
-"• Homogeneous Pairs (Odd-Odd / Even-Even) = [57]."
+"• Matching Pairs (Odd-Odd / Even-Even) = [57]."
 
-"• Heterogeneous Pairs (Odd-Even / Even-Odd) = [57]."
+"• Non-Matching Pairs (Odd-Even / Even-Odd) = [57]."
 
 "• Quarters: [27] / [30] / [30] / [27] (Nested Symmetry)."
 

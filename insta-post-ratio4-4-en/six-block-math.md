@@ -25,7 +25,7 @@ A bold, legible list using a sophisticated sans-serif font. Key numbers are acce
 
 "• Block 1: Surahs 1-19. Block 2: Surahs 20-38. And so on."
 
-"• Count 'homogeneous' surahs (position & verse same parity)."
+"• Count 'matching' surahs (position & verses both odd or both even)."
 
 "• Results per block: [11], [12], [5], [8], [9], [12]."
 

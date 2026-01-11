@@ -23,9 +23,9 @@ A bold, legible list using a sophisticated sans-serif font. Key numbers are acce
 
 "• Toplam: [114] sure (57 Tek / 57 Çift olarak bölünür)."
 
-"• Homojen Çiftler (Tek-Tek / Çift-Çift) = [57]."
+"• Eşleşen Çiftler (Tek-Tek / Çift-Çift) = [57]."
 
-"• Heterojen Çiftler (Tek-Çift / Çift-Tek) = [57]."
+"• Eşleşmeyen Çiftler (Tek-Çift / Çift-Tek) = [57]."
 
 "• Çeyrekler: [27] / [30] / [30] / [27] (İç İçe Simetri)."
 

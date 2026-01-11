@@ -21,17 +21,17 @@ In a refined, lighter weight italic Serif font (Silver/Grey):
 READ LAST (The List):
 A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Mirror Teal.
 
-"• First 57 surahs: [28] homogeneous, [29] heterogeneous."
+"• Rule: 'Matching' = position & verses same parity (both odd or both even)."
 
-"• Last 57 surahs: [29] homogeneous, [28] heterogeneous."
+"• Example: Surah 2 (even position, 286 even verses) = Matching ✓"
 
-"• Pattern: [28/29] swaps to [29/28]."
+"• First 57 surahs: [28] matching, [29] non-matching."
 
-"• Perfect mirror symmetry: [28/29/29/28]."
+"• Last 57 surahs: [29] matching, [28] non-matching — Mirror!"
 
-"• Total homogeneous: 28+29 = [57]."
+"• Pattern: 28/29 ↔ 29/28. Numbers swap between halves."
 
-"• Total heterogeneous: 29+28 = [57]."
+"• Total: 57 matching, 57 non-matching."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
