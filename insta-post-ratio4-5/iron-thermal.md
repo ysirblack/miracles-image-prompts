@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The industrial glow fades downwards into a clean, d
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the metal).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"DEMİR TERMAL KODU"
+"Kur'an'da"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Sure 17:50 → 34:10 (Erime Noktası)"
+"Demir Termal Kodu: 17:50 → 34:10"
 
-READ LAST (The Narrative Evidence - Verified):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Forge Fire Orange:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Forge Fire Orange.
 
-"• Yol A (Erime): [İlk Demir Ayeti] ile ['Yumuşama'] Ayeti arası = [1,538 Ayet]."
+"• Yol A: [İlk Demir Ayeti] ile ['Yumuşama'] Ayeti arası = [1,538 Ayet]."
 
-"• Tam Eşleşme: Demirin Erime Noktası [1,538°C]'dir."
+"• Demirin Erime Noktası yaklaşık [1,538°C]'dir."
 
-"• Yol B (Kaynama): ['Demir+Ateş'] ile [Son] Ayet arası = [2,862 Ayet]."
+"• Yol B: ['Demir+Ateş'] ile [Son] Ayet arası = [2,862 Ayet]."
 
-"• Tam Eşleşme: Demirin Kaynama Noktası [2,862°C]'dir."
+"• Demirin Kaynama Noktası yaklaşık [2,862°C]'dir."
 
-"• 34:10 ayeti özellikle demirin [Yumuşatılmasını] anlatır."
+"• 34:10 ayeti demirin [Yumuşatılmasını] anlatır."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL İHTİMAL: ~100 MİLYONDA 1+"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, industrial "heat" lighting, luxurious contrast between the glowing metal and black data pane, clean and sophisticated aesthetic.

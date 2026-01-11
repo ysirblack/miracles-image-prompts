@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,32 +10,32 @@ Negative Space (Bottom 60%): The holographic lattice fades downwards into a clea
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the blueprint).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"114-KOD MİMARİSİ"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Beş İç İçe Geçmiş Sayısal Katman"
+"114-Code Architecture: Five Numerical Layers"
 
-READ LAST (The Narrative Evidence - Complete List):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Holographic Prism Colors:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Holographic Prism Colors.
 
-"• Katman 1: [Çekirdek Parite] (27/30/30/27 Simetrisi)."
+"• Layer 1: [Core Parity] (27/30/30/27 Symmetry)."
 
-"• Katman 2: [Çift Toplam] (6,236 Ayet Toplamı ile Eşleşir)."
+"• Layer 2: [Even Sum] (Matches 6,236 Total Verses)."
 
-"• Katman 3: [Uzun/Kısa Takası] (Mükemmel Ayna)."
+"• Layer 3: [Long/Short Swap] (Mirror Structure)."
 
-"• Katman 4: [Altı Blok Senfonisi] (Alternatif Ritim)."
+"• Layer 4: [Six Block] (Alternating Rhythm)."
 
-"• Katman 5: [Ayet-Numara Aynası] (Filtreli Takas)."
+"• Layer 5: [Verse-Number Mirror] (Filtered Swap)."
 
-"• Birleşik Durum: [Çok Boyutlu] Matematiksel Bir Kilit."
+"• Combined State: A [Multi-Dimensional] Mathematical Structure."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"TEORİK BİRLEŞİK İHTİMAL: ~595 MİLYARDA 1"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, "Master Code" lighting, luxurious contrast between the complex hologram and black data pane, clean and sophisticated aesthetic.

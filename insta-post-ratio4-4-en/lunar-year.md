@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,32 +10,30 @@ Negative Space (Bottom 60%): The celestial spiral fades downwards into a clean, 
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the moon spiral).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"AY YILI KODU"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"354 Günlük Dilbilimsel Toplam"
+"Lunar Year Code: 354 Day Total"
 
-READ LAST (The Narrative Evidence - Exact Breakdown):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Moonlight Silver:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Moonlight Silver.
 
-"• Yalın Haller (Yevm): Tam olarak [274] adet."
+"• Nominative Cases (Yawm): Exactly [274] instances."
 
-"• Bileşik 'O Gün' (Yevmeizin): Tam olarak [70] adet."
+"• Compound 'That Day' (Yawma'idhin): Exactly [70] instances."
 
-"• İyelik 'Onların Günü' (Yevmuhum): Tam olarak [5] adet."
+"• Possessive 'Their Day' (Yawmuhum): Exactly [5] instances."
 
-"• İyelik 'Sizin Gününüz' (Yevmukum): Tam olarak [5] adet."
+"• Possessive 'Your Day' (Yawmukum): Exactly [5] instances."
 
-"• GENEL TOPLAM: [354] (İslami Ay Yılı ile Eşleşir)."
-
-"• Çoğul ve İkililer: [29] (Ay Döngüsü ile Eşleşir)."
+"• TOTAL: [354] (Matches Islamic Lunar Year)."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL İHTİMAL: ~2,500'DE 1 (BİRLEŞİK DESEN)"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, celestial night lighting, luxurious contrast between the glowing moon spiral and black data pane, clean and sophisticated aesthetic.

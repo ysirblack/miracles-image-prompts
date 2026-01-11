@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The glowing grid fades downwards into a clean, deep
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the grid).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"PARİTE SİMETRİSİ"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"114 Surelik Matematiksel Denge"
+"Parity Symmetry: 114 Surah Balance"
 
-READ LAST (The Narrative Evidence - Verified):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Geometric Indigo:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Geometric Indigo.
 
-"• Toplam Sure: [114] (57 Tek / 57 Çift olarak mükemmel bölünür)."
+"• Total: [114] surahs (divides into 57 Odd / 57 Even)."
 
-"• Homojen Çiftler (Tek-Tek / Çift-Çift) = [57]."
+"• Homogeneous Pairs (Odd-Odd / Even-Even) = [57]."
 
-"• Heterojen Çiftler (Tek-Çift / Çift-Tek) = [57]."
+"• Heterogeneous Pairs (Odd-Even / Even-Odd) = [57]."
 
-"• Çeyrekler: [27] / [30] / [30] / [27] (İç İçe Simetri)."
+"• Quarters: [27] / [30] / [30] / [27] (Nested Symmetry)."
 
-"• İstatistiksel olarak [Beklenen] ama zarif bir denge yapısı."
+"• Mathematical balance structure."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL DURUM: DOĞAL MATEMATİKSEL UYUM"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, digital data lighting, luxurious contrast between the glowing grid and black data pane, clean and sophisticated aesthetic.

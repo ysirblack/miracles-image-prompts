@@ -21,15 +21,17 @@ In a refined, lighter weight italic Serif font (Silver/Grey):
 READ LAST (The List):
 A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Harmonic Gold.
 
-"• For all 114 Surahs, add [Surah No] + [Verse Count]."
+"• Method: Position + Verses = Sum for each surah."
 
-"• Result: Exactly [57 Odd] sums and [57 Even] sums."
+"• Example: Surah 2 → 2+286=[288] (Even). Surah 3 → 3+200=[203] (Odd)."
 
-"• Sum of Even Results equals [6,236] (Total Verses in Qur'an)."
+"• Result: [57] surahs have even sums, [57] have odd sums."
 
-"• Sum of Odd Results equals [6,555] (Sum of numbers 1-114)."
+"• Even-sum surahs contain [6,236] verses — the entire Qur'an!"
 
-"• Provides a complete mathematical checksum for the book."
+"• Odd-sum surahs contain [6,555] verses (=1+2+3+...+114)."
+
+"• The even group's verses = total book. Mathematical checksum."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:

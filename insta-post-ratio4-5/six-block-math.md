@@ -12,28 +12,30 @@ The text is aligned LEFT and anchored to the TOP of the bottom section (starts i
 
 READ FIRST (Top of Text Block - Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"ALTI BLOK SENFONİSİ"
+"Kur'an'da"
 
 READ SECOND (Below Headline - The Bridge):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"114 Sure ÷ 19'lu 6 Blok"
+"Altı Blok Matematik: 114 Sure ÷ 6 Blok"
 
-READ LAST (The Narrative Evidence - Verified):
+READ LAST (The Narrative Evidence):
 A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Rhythmic Violet:
 
-"• Metni her biri [19 Surelik] [6 Bloğa] ayır."
+"• Yöntem: 114 sure ÷ 6 = blok başına [19 sure]."
 
-"• 3 Sistem Uygula: [Parite], [Homojenlik] & [Asallar]."
+"• Blok 1: Sure 1-19. Blok 2: Sure 20-38. Ve devamı."
 
-"• Sonuç: Tüm bloklarda Mükemmel [Alternatif Desenler]."
+"• 'Türdeş' sureleri say (konum & ayet aynı parite)."
 
-"• Örnek: [Tek-Çift-Tek-Çift-Tek-Çift] dizileri."
+"• Blok başına sonuçlar: [11], [12], [5], [8], [9], [12]."
 
-"• Koordine edilmiş çok boyutlu matematiksel bir kilit."
+"• Desen değişir: Yüksek→Yüksek→Düşük→Düşük→Düşük→Yüksek."
+
+"• 7 farklı metrik koordineli değişim gösteriyor (p=0,000034)."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL İHTİMAL: ~29,412'DE 1 (BİRLEŞİK)"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, "Symphony of Light" aesthetic, luxurious contrast between the glowing pillars and black data pane, clean and sophisticated.

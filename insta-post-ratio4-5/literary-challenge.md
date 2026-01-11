@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The scene fades downwards into a clean, deep Librar
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the pen).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"EDEBİ MEYDAN OKUMA"
+"Kur'an'da"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Bakara Suresi 2:23 ('Benzeri Bir Sure Getirin')"
+"Edebi Meydan Okuma: Bakara 2:23"
 
-READ LAST (The Narrative Evidence - Linguistic Uniqueness):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Inkwell Gold:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Inkwell Gold.
 
-"• 2:23 Ayeti insanlığa onun gibi [Bir Sure] yazması için meydan okur."
+"• 2:23 insanlığa [Bir Sure] yazması için meydan okur."
 
-"• 7. Yüzyıl Arapları şiir ve dilin [Üstatlarıydı]."
+"• 7. yüzyıl Arapları şiir ve dilin ustalarıydı."
 
-"• Kuran, tüm ölçü kurallarını yıkan [Eşsiz Bir Tür] getirdi."
+"• Kuran [Eşsiz Bir Tür] getirdi."
 
 "• Ne Şiirdir ne de Nesir (Seci)."
 
-"• Meydan okumaya rağmen, tarih [Sıfır] başarılı rakip kaydeder."
+"• Tarihte kabul gören rakip kaydedilmemiştir."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"TARİHSEL STATÜ: 1400 YILDIR CEVAPSIZ KALAN MEYDAN OKUMA"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, dramatic "spotlight" lighting, luxurious contrast between the glowing text and black data pane, clean and sophisticated aesthetic.

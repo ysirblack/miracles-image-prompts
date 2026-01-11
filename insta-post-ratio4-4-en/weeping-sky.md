@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The stone texture fades downwards into a clean, dee
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the wall).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"AĞLAYAN GÖKYÜZÜ KODU"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Duhan Suresi 44:29 vs. Piramit Metinleri"
+"Weeping Sky: Surah Ad-Dukhan 44:29"
 
-READ LAST (The Narrative Evidence - Historical Knowledge):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Pharaonic Gold:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Pharaonic Gold.
 
-"• Antik İnanç: 'Gökyüzü senin için ağlar' (Piramit Metinleri)."
+"• Ancient Belief: 'The sky weeps for you' (Pyramid Texts)."
 
-"• Kuran 44:29 bunu reddeder: 'Ne Gök ne Yer ağladı'."
+"• Qur'an 44:29 refutes this: 'Neither Sky nor Earth wept'."
 
-"• 7. Yüzyılda Hiyeroglifler [Kayıp/Çözülememişti]."
+"• In the 7th Century, Hieroglyphs were [Lost/Undeciphered]."
 
-"• Rosetta Taşı [1799]'a kadar (1200 yıl sonra) bulunmadı."
+"• The Rosetta Stone wasn't found until [1799] (1200 years later)."
 
-"• Spesifik, [Kayıp bir Pagan İnancını] doğru bir şekilde çürütür."
+"• Specifically refutes a [Lost Pagan Belief]."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"TARİHSEL STATÜ: ARKEOLOJİK RETRO-DOĞRULAMA"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, archaeological lighting (torchlight vs moonlight), luxurious contrast between the stone texture and black data pane, clean and sophisticated aesthetic.

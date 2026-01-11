@@ -1,39 +1,39 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
 
-Visual Anchor (Top 40%): A conceptual visualization of Linguistic Equilibrium. Suspended in a dark void are two glowing Arabic words: "رَجُل" (Erkek) in [Cyan] and "ٱمْرَأَة" (Kadın) in [Magenta]. They are positioned at the exact same height, perfectly balanced.
+Visual Anchor (Top 40%): A conceptual visualization of Genetic Balance. Suspended in a dark void are two glowing Arabic words: "رَجُل" (Man) in [Cyan] and "ٱمْرَأَة" (Woman) in [Magenta]. Between them, a stylized DNA double helix with "23" glowing on each strand.
 
 Negative Space (Bottom 60%): The glowing text fades downwards into a clean, deep Obsidian Void, creating a massive dark canvas below.
 
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the calligraphy).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"CİNSİYET DENGESİ KODU"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Tekil Terminoloji: Erkek & Kadın"
+"Man & Woman: Balance Across Three Methods"
 
-READ LAST (The Narrative Evidence - Verified):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Balanced Violet:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Balanced Violet.
 
-"• Tekil 'Erkek' (Racul) kelimesi tam [26] kez geçer."
+"• Singular Forms: [24 Man] / [24 Woman]."
 
-"• Tekil 'Kadın' (İmrae) kelimesi tam [26] kez geçer."
+"• By Verse Count: [25 Man] / [25 Woman]."
 
-"• Mükemmel bir [26:26] Dilbilimsel Denge."
+"• Semantic Roles: [23 Man] / [23 Woman]."
 
-"• Terminolojideki [Cinsiyet Eşitliğini] temsil eder."
+"• Human Chromosome Count: [23] from each parent."
 
-"• Yöntem: Tüm tekil kullanımlar ayırım yapılmadan sayılmıştır."
+"• Chromosome Discovery: [1955] (1,323 years later)."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL DURUM: ~%11 İHTİMAL (DOĞAL SİMETRİ)"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
-Premium 4K vertical poster quality, incredibly sharp typography, studio portrait lighting, luxurious contrast between the glowing text and black data pane, clean and sophisticated aesthetic.
+Premium 4K vertical poster quality, incredibly sharp typography, studio portrait lighting with DNA helix glow, luxurious contrast between the glowing text and black data pane, clean and sophisticated aesthetic.

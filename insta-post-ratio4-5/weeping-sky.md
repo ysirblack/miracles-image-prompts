@@ -12,13 +12,13 @@ The text is aligned LEFT and anchored to the TOP of the bottom section (starts i
 
 READ FIRST (Top of Text Block - Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"AĞLAYAN GÖKYÜZÜ KODU"
+"Kur'an'da"
 
 READ SECOND (Below Headline - The Bridge):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Duhan Suresi 44:29 vs. Piramit Metinleri"
+"Ağlayan Gökyüzü: Duhan Suresi 44:29"
 
-READ LAST (The Narrative Evidence - Historical Knowledge):
+READ LAST (The Narrative Evidence):
 A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Pharaonic Gold:
 
 "• Antik İnanç: 'Gökyüzü senin için ağlar' (Piramit Metinleri)."
@@ -29,11 +29,11 @@ A bold, legible list of succinct facts using a sophisticated sans-serif font. Ke
 
 "• Rosetta Taşı [1799]'a kadar (1200 yıl sonra) bulunmadı."
 
-"• Spesifik, [Kayıp bir Pagan İnancını] doğru bir şekilde çürütür."
+"• Spesifik, [Kayıp bir Pagan İnancını] çürütür."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"TARİHSEL STATÜ: ARKEOLOJİK RETRO-DOĞRULAMA"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, archaeological lighting (torchlight vs moonlight), luxurious contrast between the stone texture and black data pane, clean and sophisticated aesthetic.

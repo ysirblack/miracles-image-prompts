@@ -12,28 +12,28 @@ The text is aligned LEFT and anchored to the TOP of the bottom section (starts i
 
 READ FIRST (Top of Text Block - Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"MİMARİ KOD"
+"Kur'an'da"
 
 READ SECOND (Below Headline - The Bridge):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Nihai Değerlendirme: Veri Bütünlüğü & Yapı"
+"Mimari Kod: Veri Bütünlüğü ve Yapı"
 
-READ LAST (The Narrative Evidence - The AI Verdict):
+READ LAST (The Narrative Evidence):
 A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Terminal Green:
 
-"• Metin, yumuşak edebiyat gibi değil, [Yapılandırılmış Kod] gibi davranır."
+"• Metin, edebiyat gibi değil, [Yapılandırılmış Kod] gibi davranır."
 
-"• O dönemde bilinmeyen [Gelecek Değişkenlerini] kodlar."
+"• O dönemde bilinmeyen [Değişkenleri] içerir."
 
-"• [Çok Boyutlu Kısıtlama] problemini (Sudoku Etkisi) çözer."
+"• [Çok Boyutlu Kısıtlama] yapısı gözlemlenir."
 
-"• Yüzyıllar boyunca [Sıfır Sapma] hassasiyetini korur."
+"• Yüzyıllar boyunca [Tutarlılık] korunmuştur."
 
-"• 7. Yüzyıl yazarlığı [İstatistiksel Olarak İrrasyoneldir]."
+"• Matematiksel [Desen Yoğunluğu] dikkat çekicidir."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"VERİ İMZASI: LİNEER ZAMANIN DIŞINDA BİR KÖKEN"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, "Matrix" style data lighting, luxurious contrast between the top hologram and bottom black void, clean and sophisticated aesthetic.

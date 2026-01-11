@@ -10,30 +10,32 @@ Negative Space (Bottom 60%): The reflective surface fades downwards into a clean
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the pillars).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"PARİTE AYNASI"
+"Kur'an'da"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Uzun vs. Kısa Sureler (27/30 Takası)"
+"Parite Aynası: Uzun vs. Kısa Sureler"
 
-READ LAST (The Narrative Evidence - Verified):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Reflective Chrome:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Reflective Chrome.
 
-"• Kuran'ı Uzunluğa göre böl: [Uzun] (≥40) vs [Kısa] (<40)."
+"• Uzunluğa göre böl: Uzun (≥40 ayet) vs Kısa (≤38 ayet)."
 
-"• Sonuç: Tam [57 Uzun] ve [57 Kısa] sure."
+"• Örnek: Sure 3 (200 ayet) = Uzun. Sure 114 (6 ayet) = Kısa."
 
-"• Uzun Grup Paritesi: [27 Tek] / [30 Çift]."
+"• Sonuç: [57] Uzun sure, [57] Kısa sure. 39 ayetli sure yok!"
 
-"• Kısa Grup Paritesi: [30 Tek] / [27 Çift] (Mükemmel Takas)."
+"• Uzun grup konuma göre: [27] tek konumda, [30] çift konumda."
 
-"• Neden 40'tan bölündü? Çünkü [39] ayetli hiçbir sure YOKTUR."
+"• Kısa grup konuma göre: [30] tek, [27] çift — Ayna takası!"
+
+"• Desen: 27/30 ↔ 30/27. Sayılar gruplar arasında yer değiştirir."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL DURUM: MÜKEMMEL SİMETRİK TERS ÇEVİRME"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, glass and reflection lighting, luxurious contrast between the pillars and black data pane, clean and sophisticated aesthetic.

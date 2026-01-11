@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,32 +10,32 @@ Negative Space (Bottom 60%): The solar glow fades downwards into a clean, deep O
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the orbit).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"GÜNEŞ YILI KODU"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"365 Günlük Dilbilimsel Toplam"
+"Solar Year: 365-Day Linguistic Total"
 
-READ LAST (The Narrative Evidence - Exact Breakdown):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Daylight Gold:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Daylight Gold.
 
-"• Yalın Haller 'Gün' (Yevm): Tam olarak [274] adet."
+"• Indefinite Forms 'Day' (Yevm): Exactly [274] instances."
 
-"• Belirli Haller 'O Gün' (El-Yevm): Tam olarak [75] adet."
+"• Definite Forms 'The Day' (Al-Yevm): Exactly [75] instances."
 
-"• Tenvinli Haller 'Bir Gün' (Yevmen): Tam olarak [16] adet."
+"• Accusative Forms 'A Day' (Yevmen): Exactly [16] instances."
 
-"• GENEL TOPLAM: [365] (Güneş Yılı ile Eşleşir)."
+"• GRAND TOTAL: [365] (Matches Solar Year)."
 
-"• Tekil 'Ay' (Şehr) kelimesi: Tam olarak [12] (Yıllık Döngü)."
+"• Singular 'Month' (Shahr) word: Exactly [12] (Annual Cycle)."
 
-"• [354 Günlük] Ay Hesabını mükemmel şekilde tamamlar."
+"• Complements the [354-Day] Lunar calculation."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL İHTİMAL: ~2,500'DE 1 (BİRLEŞİK DESEN)"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, bright solar lighting, luxurious contrast between the orbital path and black data pane, clean and sophisticated aesthetic.

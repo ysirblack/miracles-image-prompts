@@ -21,15 +21,17 @@ In a refined, lighter weight italic Serif font (Silver/Grey):
 READ LAST (The List):
 A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Harmonic Gold.
 
-"• 114 Surenin her biri için [Sure No] + [Ayet Sayısı] toplanır."
+"• Yöntem: Her sure için Konum + Ayet = Toplam."
 
-"• Sonuç: Tam olarak [57 Tek] ve [57 Çift] sonuç çıkar."
+"• Örnek: Sure 2 → 2+286=[288] (Çift). Sure 3 → 3+200=[203] (Tek)."
 
-"• Çift Sonuçların Toplamı = [6,236] (Toplam Ayet Sayısı)."
+"• Sonuç: [57] sure çift toplam, [57] sure tek toplam."
 
-"• Tek Sonuçların Toplamı = [6,555] (1-114 arası sayıların toplamı)."
+"• Çift toplamlı sureler [6.236] ayet içerir — tüm Kur'an!"
 
-"• Kitabın tamamı için tam bir matematiksel sağlama sunar."
+"• Tek toplamlı sureler [6.555] ayet içerir (=1+2+3+...+114)."
+
+"• Çift grubun ayetleri = tüm kitap. Matematiksel sağlama."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:

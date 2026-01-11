@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The biometric glow fades downwards into a clean, de
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the finger).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"PARMAK İZİ KİMLİĞİ"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Kıyamet Suresi 75:3-4 ('Parmak Uçlarını Düzenlemeye')"
+"Fingerprint: Surah 75:3-4"
 
-READ LAST (The Narrative Evidence - Unique Biometrics):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Biometric Blue:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Biometric Blue.
 
-"• 75:4 Ayeti [Parmak Ucunun] onarılmasını vurgular."
+"• 75:4 emphasizes the restoration of [Fingertips]."
 
-"• Tarihsel olarak vücudun küçük/önemsiz bir parçası sayılırdı."
+"• Historically considered a small/insignificant body part."
 
-"• Bilim doğrular: Parmak izleri her insana [Özgüdür]."
+"• Fingerprints are [Unique] to each person."
 
-"• [Tek Yumurta İkizlerinin] bile parmak izleri farklıdır."
+"• Even [Identical Twins] have different fingerprints."
 
-"• Parmak ucunu onarmak, [Tam Kimliği] onarmak demektir."
+"• Fingertip = [Complete Identity]."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"BİLİMSEL STATÜ: ONAYLANMIŞ BİYOMETRİK BENZERSİZLİK"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, futuristic biometric lighting, luxurious contrast between the glowing ridges and black data pane, clean and sophisticated aesthetic.

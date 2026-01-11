@@ -12,28 +12,28 @@ The text is aligned LEFT and anchored to the TOP of the bottom section (starts i
 
 READ FIRST (Top of Text Block - Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"GÜMÜŞ KODU"
+"Kur'an'da"
 
 READ SECOND (Below Headline - The Bridge):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Sure 3:14 → 9:34-35 (İkili Yol)"
+"Gümüş Kodu: Sure 3:14 → 9:34-35"
 
-READ LAST (The Narrative Evidence - Verified):
+READ LAST (The Narrative Evidence):
 A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Bright Molten Chrome:
 
 "• Yol A: [1.] Gümüş kelimesinden [2.] Gümüş kelimesine = [961] Ayet."
 
-"• Tam Eşleşme: Gümüş Erime Noktası [961.78°C]'dir."
+"• Gümüş Erime Noktası: [961.78°C]."
 
 "• Yol B: [1.] Gümüş kelimesinden [Eritilme] ayetine = [962] Ayet."
 
-"• Hem [Hassas] hem [Yuvarlanmış] termal limitleri kodlar."
+"• Hem [Hassas] hem [Yuvarlanmış] değerleri kapsar."
 
 "• 2. geçiş [Biriktirmeyi], sonraki ayet [Eritilmeyi] anlatır."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL İHTİMAL: ~38 MİLYONDA 1"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, metallic lighting, luxurious contrast between the fluid silver and black data pane, clean and sophisticated aesthetic.

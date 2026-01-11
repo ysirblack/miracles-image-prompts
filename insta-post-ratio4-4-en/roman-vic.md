@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The desert landscape fades downwards into a clean, 
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the legions).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"ROMA ZAFERİ KEHANETİ"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Rum Suresi 30:2-4 ('Birkaç Yıl İçinde')"
+"Roman Victory: Surah Ar-Rum 30:2-4"
 
-READ LAST (The Narrative Evidence - Historical Impossibility):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Imperial Purple:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Imperial Purple.
 
-"• Kuran, Roma zaferini [Mutlak Yenilgi]den hemen sonra öngördü."
+"• The text foretells Roman victory after [Defeat]."
 
-"• Arapça 'Bid' kelimesi [3 ile 9 Yıl] aralığını belirtir."
+"• Arabic 'Bid' specifies a [3 to 9 Year] range."
 
-"• Tarihçiler, İmparatorluğun o sırada [Çökmekte] olduğunu doğrular."
+"• Historians confirm the Empire was [Collapsing] at the time."
 
-"• Dönemin gözlemcilerine göre zafer [İmkansız] görünüyordu."
+"• Victory occurred [7-9 Years] later at Nineveh (627 CE)."
 
-"• Tam [7-9 Yıl] sonra Ninova'da (627 MS) gerçekleşti."
+"• A timeframe [Consistent] with historical records."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"TARİHSEL STATÜ: DOĞRULANMIŞ GERÇEKLEŞEN KEHANET"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, dawn "turning tide" lighting, luxurious contrast between the historical scene and black data pane, clean and sophisticated aesthetic.

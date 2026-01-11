@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The floral/hive background fades downwards into a c
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the bee).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"DİŞİ ARI KODU"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Nahl Suresi 16:68-69 (Cinsiyet Özelliği)"
+"Female Bee: Surah 16:68-69"
 
-READ LAST (The Narrative Evidence - Biological Precision):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Honey Gold:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Honey Gold.
 
-"• Ayet kesinlikle [Dişi] gramer formları kullanır."
+"• The verse uses [Feminine] grammatical forms."
 
-"• Emirler: 'Edin' (İttehizî) & 'Ye' (Külî) dişidir."
+"• Commands: 'Take' (Ittakhizî) & 'Eat' (Kulî) are feminine."
 
-"• Kovanı kuran ve toplayan [İşçi Arılar] biyolojik olarak Dişidir."
+"• [Worker Bees] that build hives are biologically female."
 
-"• Erkek arılar (Dronlar) kovan yapmaz veya yiyecek toplamaz."
+"• Male bees (Drones) don't build or forage."
 
-"• Koloninin [Kast Sistemini] doğru bir şekilde ayırt eder."
+"• Distinguishes the colony's [Caste System]."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"BİLİMSEL STATÜ: DOĞRU ENTOMOLOJİK SINIFLANDIRMA"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, warm golden-hour lighting (Honey/Amber tones), luxurious contrast, clean and sophisticated aesthetic.

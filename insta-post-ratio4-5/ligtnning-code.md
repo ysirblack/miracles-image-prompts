@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The storm clouds fade downwards into a clean, deep 
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the lightning).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"13:13 YILDIRIM KODU"
+"Kur'an'da"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Rad (Gök Gürültüsü) Suresi 13: Ayet 13"
+"13:13 Yıldırım Kodu: Rad Suresi 13:13"
 
-READ LAST (The Narrative Evidence - Complete List):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Electric Volt Yellow:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Electric Volt Yellow.
 
-"• Rad 13:13 açıkça [Yıldırımların] insanlara çarpmasını anlatır."
+"• Rad 13:13, [Yıldırımların] insanlara çarpmasını anlatır."
 
 "• Olay Tarihi: 13 Ağustos 2010 (Cuma [13])."
 
-"• Kurban Yaşı: Tam olarak [13] Yaşında."
+"• Kurban Yaşı: [13] Yaşında."
 
-"• Tıbbi Müdahale Saati: [13:13] (Öğleden Sonra 1:13)."
+"• Tıbbi Müdahale Saati: [13:13]."
 
-"• Kesişim: Gök Gürültüsü Ayeti ile hizalanan 5 bağımsız [13]."
+"• 5 bağımsız [13] kesişimi."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL DURUM: OLAĞANÜSTÜ SENKRONİZASYON"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, storm-lit atmosphere, luxurious contrast between the bright lightning and black data pane, clean and sophisticated aesthetic.

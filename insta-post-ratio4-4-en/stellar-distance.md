@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The starfield fades seamlessly downwards into a cle
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the image).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"YILDIZ MESAFE KODU"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Necm Suresi (53): Dünya'dan Sirius'a"
+"Stellar Distance: Surah An-Najm (53)"
 
-READ LAST (The Narrative Evidence - Exact Matches):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Sirius Electric Blue:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Sirius Electric Blue.
 
-"• 'Dünya' (53:32) ile 'Sirius' (53:49) arası tam [86 Kelime]."
+"• Between 'Earth' (53:32) and 'Sirius' (53:49) = exactly [86 Words]."
 
-"• Sirius'a olan uzaklık: [8.6 Işık Yılı]."
+"• Distance to Sirius: [8.6 Light Years]."
 
-"• Alternatif sayım (53:31'den): [112 Kelime]."
+"• Alternative count (from 53:31): [112 Words]."
 
-"• Işık Seyahat Süresi: [112 Ay]."
+"• Light Travel Time: [112 Months]."
 
-"• Sirius, Kuran'da ismi geçen [TEK] yıldızdır."
+"• Sirius is the [ONLY] star named in the Qur'an."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL SONUÇ: ASTRONOMİK HASSASİYET"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, cold blue space lighting, luxurious contrast, clean and sophisticated aesthetic.

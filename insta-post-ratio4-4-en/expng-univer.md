@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The deep starfield extends seamlessly downwards, fa
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the expansion).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"GENİŞLEYEN EVREN"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Zariyat Suresi 51:47 ('Biz Onu Genişleticiyiz')"
+"Expanding Universe: Surah 51:47"
 
-READ LAST (The Narrative Evidence - Linguistic Precision):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Redshift Crimson:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Redshift Crimson.
 
-"• 51:47 bildirir: 'Şüphesiz Biz [Genişleticiyiz]'."
+"• 51:47 states: 'We are [Expanding] it'."
 
-"• Arapça [Mûsiûn] kelimesi sürekli, devam eden eylemi anlatır."
+"• Arabic [Mûsiûn] describes continuous, ongoing action."
 
-"• 7. Yüzyıl Görüşü: Evren [Statik] ve sabitti."
+"• 7th century view: The universe was [Static] and fixed."
 
-"• 20. Yüzyıl Bilimi: [Hubble Yasası] (1929) ile doğrulandı."
+"• 20th century: [Hubble's Law] (1929) showed expansion."
 
-"• Kozmosun temel [Dinamik Doğasını] tarif eder."
+"• Describes the fundamental [Dynamic Nature] of the cosmos."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"BİLİMSEL STATÜ: ONAYLANMIŞ KOZMOLOJİK GERÇEK"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, deep space lighting with redshift accents, luxurious contrast, clean and sophisticated aesthetic.

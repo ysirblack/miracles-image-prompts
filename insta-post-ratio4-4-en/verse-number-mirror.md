@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,32 @@ Negative Space (Bottom 60%): The prism glow fades downwards into a clean, deep O
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the prism).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"AYET-NUMARA AYNASI"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Filtrelenmiş 48 Surelik Takas"
+"Verse-Number Mirror: 48 Surah Analysis"
 
-READ LAST (The Narrative Evidence - Verified):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Prismatic Cyan:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Prismatic Cyan.
 
-"• FİLTRE: Sadece [Ayet Sayısı > Sure No] olan sureleri tut."
+"• Filter: Keep surahs where Verses > Position."
 
-"• VERİ SETİ: Tam olarak [48 Sure] bu kurala uyar."
+"• Example: Surah 2 (286 verses > 2) ✓ included."
 
-"• ANALİZ A (Sure No): [25 Tek] / [23 Çift] bulundu."
+"• Example: Surah 114 (6 verses < 114) ✗ excluded."
 
-"• ANALİZ B (Fark): [23 Tek] / [25 Çift] bulundu."
+"• Result: [48] surahs pass. Classify by position parity: [25] odd, [23] even."
 
-"• SONUÇ: Bağımsız yöntemler arasında mükemmel bir [Sayısal Takas]."
+"• Classify same 48 by (verses−position) parity: [23] odd, [25] even."
+
+"• Mirror swap: 25/23 becomes 23/25. Two methods, swapped result."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL İHTİMAL: ~439'DA 1 (%0.23)"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, laser-grid lighting, luxurious contrast between the glowing prism and black data pane, clean and sophisticated aesthetic.

@@ -12,13 +12,13 @@ The text is aligned LEFT and anchored to the TOP of the bottom section (starts i
 
 READ FIRST (Top of Text Block - Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"YÜZEN YÖRÜNGELER"
+"Kur'an'da"
 
 READ SECOND (Below Headline - The Bridge):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Enbiya Suresi 21:33 ('Yesbehûn' - Yüzüyorlar)"
+"Yüzen Yörüngeler: Enbiya Suresi 21:33"
 
-READ LAST (The Narrative Evidence - Celestial Fluidity):
+READ LAST (The Narrative Evidence):
 A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Fluid Motion Cyan:
 
 "• Ayet, gök cisimlerini [Yüzer] (Yesbehûn) halde tarif eder."
@@ -33,7 +33,7 @@ A bold, legible list of succinct facts using a sophisticated sans-serif font. Ke
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"BİLİMSEL STATÜ: ONAYLANMIŞ GALAKTİK MEKANİK"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, motion-blur accents on the trails, luxurious contrast between the glowing helix and black data pane, clean and sophisticated aesthetic.

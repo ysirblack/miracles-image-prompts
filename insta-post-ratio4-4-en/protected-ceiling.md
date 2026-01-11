@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The solar wind fades downwards into a clean, deep O
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the magnetic field).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"KORUNMUŞ TAVAN"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Enbiya Suresi 21:32 ('Gökyüzünü Korunmuş Bir Tavan Yaptık')"
+"Protected Ceiling: Surah 21:32"
 
-READ LAST (The Narrative Evidence - Dual Shielding):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Shield Cyan:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Shield Cyan.
 
-"• Ayet, Gökyüzünü [Korunmuş Bir Tavan] olarak adlandırır."
+"• The verse calls the Sky a [Protected Ceiling]."
 
-"• [Atmosfer]: UV ışınlarını süzer ve meteorları yakar."
+"• [Atmosphere]: Filters UV rays and burns meteors."
 
-"• [Manyetosfer]: Ölümcül Güneş Rüzgarını saptırır."
+"• [Magnetosphere]: Deflects Solar Wind."
 
-"• Van Allen Kuşakları görünmez bir [Güç Kalkanı] gibidir."
+"• Van Allen Belts act as a [Shield]."
 
-"• Bu kalkan olmasaydı, Dünya'da yaşam [İmkansız] olurdu."
+"• A layered system protecting Earth."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"BİLİMSEL STATÜ: ONAYLANMIŞ GEZEGENSEL KALKAN"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, high-contrast lighting (Orange Solar Wind vs Blue Magnetic Field), luxurious aesthetic.

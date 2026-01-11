@@ -12,28 +12,28 @@ The text is aligned LEFT and anchored to the TOP of the bottom section (starts i
 
 READ FIRST (Top of Text Block - Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"ROMA ZAFERİ KEHANETİ"
+"Kur'an'da"
 
 READ SECOND (Below Headline - The Bridge):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Rum Suresi 30:2-4 ('Birkaç Yıl İçinde')"
+"Roma Zaferi: Rum Suresi 30:2-4"
 
-READ LAST (The Narrative Evidence - Historical Impossibility):
+READ LAST (The Narrative Evidence):
 A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Imperial Purple:
 
-"• Kuran, Roma zaferini [Mutlak Yenilgi]den hemen sonra öngördü."
+"• Metin, Roma zaferini [Yenilgi]den sonra öngörür."
 
 "• Arapça 'Bid' kelimesi [3 ile 9 Yıl] aralığını belirtir."
 
 "• Tarihçiler, İmparatorluğun o sırada [Çökmekte] olduğunu doğrular."
 
-"• Dönemin gözlemcilerine göre zafer [İmkansız] görünüyordu."
-
 "• Tam [7-9 Yıl] sonra Ninova'da (627 MS) gerçekleşti."
+
+"• Tarihsel kayıtlarla [Uyumlu] bir zaman aralığı."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"TARİHSEL STATÜ: DOĞRULANMIŞ GERÇEKLEŞEN KEHANET"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, dawn "turning tide" lighting, luxurious contrast between the historical scene and black data pane, clean and sophisticated aesthetic.

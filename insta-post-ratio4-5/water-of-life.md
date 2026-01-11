@@ -12,16 +12,16 @@ The text is aligned LEFT and anchored to the TOP of the bottom section (starts i
 
 READ FIRST (Top of Text Block - Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"HAYAT SUYU KODU"
+"Kur'an'da"
 
 READ SECOND (Below Headline - The Bridge):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Enbiya Suresi 21:30 ('Her Canlı Şeyi Sudan Yarattık')"
+"Hayat Suyu: Enbiya Suresi 21:30"
 
-READ LAST (The Narrative Evidence - Biological Basis):
+READ LAST (The Narrative Evidence):
 A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Aqua Pure Blue:
 
-"• Biyolojik Gerçek: Sitoplazma [%80 Su]'dur."
+"• Biyolojik gerçek: Sitoplazma [%80 Su]'dur."
 
 "• Su, biyokimya için [Evrensel Çözücü]'dür."
 
@@ -29,11 +29,11 @@ A bold, legible list of succinct facts using a sophisticated sans-serif font. Ke
 
 "• NASA'nın ekso-biyoloji mottosu: '[Suyu Takip Et]'."
 
-"• Temel [Hayat Aksiyomu]'nu doğrular."
+"• Temel [Hayat Aksiyomu] ile uyumludur."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"BİLİMSEL STATÜ: EVRENSEL BİYOLOJİK AKSİYOM"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, macro biological lighting, luxurious contrast between the glowing fluid and black data pane, clean and sophisticated aesthetic.

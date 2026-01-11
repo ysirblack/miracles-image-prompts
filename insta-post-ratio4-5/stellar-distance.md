@@ -12,13 +12,13 @@ The text is aligned LEFT and anchored to the TOP of the bottom section (starts i
 
 READ FIRST (Top of Text Block - Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"YILDIZ MESAFE KODU"
+"Kur'an'da"
 
 READ SECOND (Below Headline - The Bridge):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Necm Suresi (53): Dünya'dan Sirius'a"
+"Yıldız Mesafesi: Necm Suresi (53)"
 
-READ LAST (The Narrative Evidence - Exact Matches):
+READ LAST (The Narrative Evidence):
 A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Sirius Electric Blue:
 
 "• 'Dünya' (53:32) ile 'Sirius' (53:49) arası tam [86 Kelime]."
@@ -33,7 +33,7 @@ A bold, legible list of succinct facts using a sophisticated sans-serif font. Ke
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL SONUÇ: ASTRONOMİK HASSASİYET"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, cold blue space lighting, luxurious contrast, clean and sophisticated aesthetic.

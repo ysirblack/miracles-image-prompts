@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The industrial glow fades downwards into a clean, d
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the metal).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"DEMİR TERMAL KODU"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Sure 17:50 → 34:10 (Erime Noktası)"
+"Iron Thermal Code: 17:50 → 34:10"
 
-READ LAST (The Narrative Evidence - Verified):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Forge Fire Orange:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Forge Fire Orange.
 
-"• Yol A (Erime): [İlk Demir Ayeti] ile ['Yumuşama'] Ayeti arası = [1,538 Ayet]."
+"• Path A: [First Iron Verse] to ['Softening'] Verse = [1,538 Verses]."
 
-"• Tam Eşleşme: Demirin Erime Noktası [1,538°C]'dir."
+"• Iron's Melting Point is approx. [1,538°C]."
 
-"• Yol B (Kaynama): ['Demir+Ateş'] ile [Son] Ayet arası = [2,862 Ayet]."
+"• Path B: ['Iron+Fire'] to [End] = [2,862 Verses]."
 
-"• Tam Eşleşme: Demirin Kaynama Noktası [2,862°C]'dir."
+"• Iron's Boiling Point is approx. [2,862°C]."
 
-"• 34:10 ayeti özellikle demirin [Yumuşatılmasını] anlatır."
+"• 34:10 describes [Softening] of iron."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL İHTİMAL: ~100 MİLYONDA 1+"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, industrial "heat" lighting, luxurious contrast between the glowing metal and black data pane, clean and sophisticated aesthetic.

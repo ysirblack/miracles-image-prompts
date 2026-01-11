@@ -1,0 +1,41 @@
+aspect_ratio="4:5"
+
+(1) The Vertical Layout (40/60 Split):
+A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
+
+Visual Anchor (Top 40%): A mesmerizing Golden Spiral (Fibonacci) constructed from glowing mathematical data. On one spiral arm, "7,906" glows in [Amber Gold] representing repeated sums. On the other arm, "4,885" glows in [Silver] representing unique sums. At the center where they meet, "φ = 1.618" radiates [Brilliant White].
+
+Negative Space (Bottom 60%): The spiral geometry fades downwards into a clean, deep Obsidian Void, creating a massive dark canvas below.
+
+(2) Text Hierarchy (Bottom 60% - Top Aligned):
+The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the spiral).
+
+READ FIRST (Headline):
+In massive, elegant, high-end Modern Serif font (Pure White):
+"In the Qur'an"
+
+READ SECOND (Subtitle):
+In a refined, lighter weight italic Serif font (Silver/Grey):
+"Golden Ratio: Hidden in the Verse Structure"
+
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Phi Gold.
+
+"• Method: Position + Verses = Sum (e.g., Surah 1: 1+7=[8])."
+
+"• Example repeating: Surah 10 (10+109=[119]) & Surah 20 (20+99=[119])."
+
+"• Example unique: Surah 1 (1+7=[8]) — no other surah sums to 8."
+
+"• Repeating group: [74] surahs → [7,906] verses."
+
+"• Unique group: [40] surahs → [4,885] verses."
+
+"• Ratio: 7906÷4885 = [1.618424] ≈ Golden Ratio [1.618034]."
+
+THE FOOTER (Very Bottom Edge):
+Separated by a thin line, in small caps:
+"OBSERVED NUMERICAL PATTERNS"
+
+(3) Atmosphere:
+Premium 4K vertical poster quality, incredibly sharp typography, divine proportion lighting with golden spiral radiance, luxurious contrast between the mathematical geometry and black data pane, clean and sophisticated aesthetic.

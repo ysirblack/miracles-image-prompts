@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The darkening cosmos fades seamlessly downwards int
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the dying sun).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"GÜNEŞİN ÖLÜMÜ"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Tekvir Suresi 81:1 ('Küvvirat' - Dürülüp Sarıldığında)"
+"Death of the Sun: Surah At-Takwir 81:1"
 
-READ LAST (The Narrative Evidence - Stellar Evolution):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Dying Ember Red:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Dying Ember Red.
 
-"• 81:1 Ayeti Güneş'in [Dürülüp Sarıldığını] anlatır."
+"• Verse 81:1 describes the Sun being [Folded Up]."
 
-"• Arapça 'Küvvirat' [Sıkışmayı] ve ışık kaybını ifade eder."
+"• Arabic 'Kuwwirat' implies [Compression] and loss of light."
 
-"• Bir Yıldızın son evresi: [Beyaz Cüce]'ye çöküş."
+"• A star's final stage: Collapse into a [White Dwarf]."
 
-"• 81:2 Ayeti Yıldızların [Kararıp Döküldüğünü] (İnkedarat) anlatır."
+"• Verse 81:2 describes stars [Dimming and Falling]."
 
-"• Yıldız yaşamının sonunu ve [Entropiyi] tasvir eder."
+"• Depicts the end of stellar life and [Entropy]."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"BİLİMSEL STATÜ: DOĞRU YILDIZ EVRİM MODELİ"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, ominous low-key lighting, luxurious contrast between the dying ember and black data pane, clean and sophisticated aesthetic.

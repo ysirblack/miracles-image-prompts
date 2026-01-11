@@ -12,28 +12,28 @@ The text is aligned LEFT and anchored to the TOP of the bottom section (starts i
 
 READ FIRST (Top of Text Block - Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"YILDIZ YARIÇAP KODU"
+"Kur'an'da"
 
 READ SECOND (Below Headline - The Bridge):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Şems Suresi (91) ÷ Necm Suresi (53)"
+"Yıldız Yarıçapı: Şems (91) ÷ Necm (53)"
 
-READ LAST (The Narrative Evidence - Verified):
+READ LAST (The Narrative Evidence):
 A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Sirius Electric Blue:
 
 "• Sure [91] (Güneş) bölü Sure [53] (Yıldız) = [1.717]."
 
-"• Sirius Yarıçapı tam olarak [1.717] Güneş Yarıçapıdır."
+"• Sirius Yarıçapı: [1.717] Güneş Yarıçapı."
 
 "• Sirius, Kuran'da ismi geçen [TEK] yıldızdır."
 
-"• Sure Numaraları Oranı, Fiziksel [Boyut Oranı] ile eşleşir."
+"• Sure numaraları oranı, fiziksel [Boyut Oranı] ile eşleşir."
 
-"• Hassasiyet: [%0.2] Hata Payı (Yüzde birin altında)."
+"• Hassasiyet: Yaklaşık [%0.2] hata payı."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL SONUÇ: <%0.25 HATA PAYI"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, cold blue vs warm gold contrast, luxurious layout, clean and sophisticated aesthetic.

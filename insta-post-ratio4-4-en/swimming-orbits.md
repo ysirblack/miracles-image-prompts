@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The star trails fade seamlessly downwards into a cl
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the helix).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"YÜZEN YÖRÜNGELER"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Enbiya Suresi 21:33 ('Yesbehûn' - Yüzüyorlar)"
+"Swimming Orbits: Surah Al-Anbiya 21:33"
 
-READ LAST (The Narrative Evidence - Celestial Fluidity):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Fluid Motion Cyan:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Fluid Motion Cyan.
 
-"• Ayet, gök cisimlerini [Yüzer] (Yesbehûn) halde tarif eder."
+"• The verse describes celestial bodies as [Swimming] (Yasbahun)."
 
-"• Statik dönüşü değil, akışkan [Hareketliliği] imalar."
+"• Implies fluid [Motion], not static rotation."
 
-"• Güneş sabit değildir; [Galaktik Merkez] etrafında döner."
+"• The Sun is not stationary; it orbits the [Galactic Center]."
 
-"• Gezegen yörüngeleri uzayda [Helisler] (Spiraller) çizer."
+"• Planetary orbits trace [Helixes] (Spirals) through space."
 
-"• Kozmik hareketin [Akışkan Dinamiği] ile eşleşir."
+"• Matches the [Fluid Dynamics] of cosmic motion."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"BİLİMSEL STATÜ: ONAYLANMIŞ GALAKTİK MEKANİK"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, motion-blur accents on the trails, luxurious contrast between the glowing helix and black data pane, clean and sophisticated aesthetic.

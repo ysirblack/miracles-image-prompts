@@ -12,30 +12,30 @@ The text is aligned LEFT and anchored to the TOP of the bottom section (starts i
 
 READ FIRST (Top of Text Block - Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"114-KOD MİMARİSİ"
+"Kur'an'da"
 
 READ SECOND (Below Headline - The Bridge):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Beş İç İçe Geçmiş Sayısal Katman"
+"114-Kod Mimarisi: Beş Sayısal Katman"
 
-READ LAST (The Narrative Evidence - Complete List):
+READ LAST (The Narrative Evidence):
 A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Holographic Prism Colors:
 
 "• Katman 1: [Çekirdek Parite] (27/30/30/27 Simetrisi)."
 
 "• Katman 2: [Çift Toplam] (6,236 Ayet Toplamı ile Eşleşir)."
 
-"• Katman 3: [Uzun/Kısa Takası] (Mükemmel Ayna)."
+"• Katman 3: [Uzun/Kısa Takası] (Ayna Yapısı)."
 
-"• Katman 4: [Altı Blok Senfonisi] (Alternatif Ritim)."
+"• Katman 4: [Altı Blok] (Alternatif Ritim)."
 
 "• Katman 5: [Ayet-Numara Aynası] (Filtreli Takas)."
 
-"• Birleşik Durum: [Çok Boyutlu] Matematiksel Bir Kilit."
+"• Birleşik Durum: [Çok Boyutlu] Matematiksel Yapı."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"TEORİK BİRLEŞİK İHTİMAL: ~595 MİLYARDA 1"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, "Master Code" lighting, luxurious contrast between the complex hologram and black data pane, clean and sophisticated aesthetic.

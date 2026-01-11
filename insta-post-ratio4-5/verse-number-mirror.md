@@ -12,28 +12,30 @@ The text is aligned LEFT and anchored to the TOP of the bottom section (starts i
 
 READ FIRST (Top of Text Block - Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"AYET-NUMARA AYNASI"
+"Kur'an'da"
 
 READ SECOND (Below Headline - The Bridge):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Filtrelenmiş 48 Surelik Takas"
+"Ayet-Numara Aynası: 48 Sure Analizi"
 
-READ LAST (The Narrative Evidence - Verified):
+READ LAST (The Narrative Evidence):
 A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Prismatic Cyan:
 
-"• FİLTRE: Sadece [Ayet Sayısı > Sure No] olan sureleri tut."
+"• Filtre: Ayet sayısı > Konum olan sureleri tut."
 
-"• VERİ SETİ: Tam olarak [48 Sure] bu kurala uyar."
+"• Örnek: Sure 2 (286 ayet > 2) ✓ dahil."
 
-"• ANALİZ A (Sure No): [25 Tek] / [23 Çift] bulundu."
+"• Örnek: Sure 114 (6 ayet < 114) ✗ hariç."
 
-"• ANALİZ B (Fark): [23 Tek] / [25 Çift] bulundu."
+"• Sonuç: [48] sure geçer. Konum paritesine göre: [25] tek, [23] çift."
 
-"• SONUÇ: Bağımsız yöntemler arasında mükemmel bir [Sayısal Takas]."
+"• Aynı 48'i (ayet−konum) paritesine göre: [23] tek, [25] çift."
+
+"• Ayna takası: 25/23 olur 23/25. İki yöntem, ters sonuç."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL İHTİMAL: ~439'DA 1 (%0.23)"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, laser-grid lighting, luxurious contrast between the glowing prism and black data pane, clean and sophisticated aesthetic.

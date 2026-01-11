@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The storm clouds fade downwards into a clean, deep 
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the lightning).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"13:13 YILDIRIM KODU"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Rad (Gök Gürültüsü) Suresi 13: Ayet 13"
+"13:13 Lightning Code: Surah Ar-Ra'd 13:13"
 
-READ LAST (The Narrative Evidence - Complete List):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Electric Volt Yellow:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Electric Volt Yellow.
 
-"• Rad 13:13 açıkça [Yıldırımların] insanlara çarpmasını anlatır."
+"• Ar-Ra'd 13:13 describes [Lightning] striking people."
 
-"• Olay Tarihi: 13 Ağustos 2010 (Cuma [13])."
+"• Event Date: August 13, 2010 (Friday the [13th])."
 
-"• Kurban Yaşı: Tam olarak [13] Yaşında."
+"• Victim Age: [13] Years Old."
 
-"• Tıbbi Müdahale Saati: [13:13] (Öğleden Sonra 1:13)."
+"• Medical Intervention Time: [13:13]."
 
-"• Kesişim: Gök Gürültüsü Ayeti ile hizalanan 5 bağımsız [13]."
+"• 5 independent [13]s converge."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL DURUM: OLAĞANÜSTÜ SENKRONİZASYON"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, storm-lit atmosphere, luxurious contrast between the bright lightning and black data pane, clean and sophisticated aesthetic.

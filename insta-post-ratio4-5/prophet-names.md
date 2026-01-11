@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The scale fades downwards into a clean, deep Obsidi
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the scale).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"PEYGAMBER DENGESİ"
+"Kur'an'da"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Toplam 'Elçi' İsimleri vs. Toplam 'Peygamber' Adları"
+"Peygamber Dengesi: Elçi İsimleri vs. Peygamber Adları"
 
-READ LAST (The Narrative Evidence - Verified):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Balanced Emerald Green:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Balanced Emerald Green.
 
-"• Toplam 'Elçi' (Resul) İsimleri = [510] adet."
+"• Toplam 'Elçi' (Resul) İsimleri = tam olarak [510] adet."
 
-"• Toplam 'Peygamber' Adları (Adem'den Muhammed'e) = [510] adet."
+"• Toplam 'Peygamber' Adları = tam olarak [510] adet."
 
-"• Tüm metin boyunca oran tam olarak [1:1]'dir."
+"• Tüm metin boyunca oran [1:1]'dir."
 
-"• Yöntem: [İsimden-İsime] / [Kişiden-Kişiye] sayım."
+"• Yöntem: [İsimden-İsime] sayım."
 
-"• 'Mesajlar' (Nesneler) ve 'Ahmed' (İkinci İsim) hariçtir."
+"• 'Mesajlar' (Nesneler) ve 'Ahmed' hariçtir."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL SONUÇ: MÜKEMMEL SAYISAL SİMETRİ"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, symmetrical lighting, luxurious contrast between the gold scale and black data pane, clean and sophisticated aesthetic.

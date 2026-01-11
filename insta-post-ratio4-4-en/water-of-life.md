@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The fluid environment fades downwards into a clean,
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the cell).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"HAYAT SUYU KODU"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Enbiya Suresi 21:30 ('Her Canlı Şeyi Sudan Yarattık')"
+"Water of Life: Surah Al-Anbiya 21:30"
 
-READ LAST (The Narrative Evidence - Biological Basis):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Aqua Pure Blue:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Aqua Pure Blue.
 
-"• Biyolojik Gerçek: Sitoplazma [%80 Su]'dur."
+"• Biological fact: Cytoplasm is [80% Water]."
 
-"• Su, biyokimya için [Evrensel Çözücü]'dür."
+"• Water is the [Universal Solvent] for biochemistry."
 
-"• [Sıvı Su] olmadan bilinen hiçbir organizma var olamaz."
+"• No known organism can exist without [Liquid Water]."
 
-"• NASA'nın ekso-biyoloji mottosu: '[Suyu Takip Et]'."
+"• NASA's exobiology motto: '[Follow the Water]'."
 
-"• Temel [Hayat Aksiyomu]'nu doğrular."
+"• Consistent with the fundamental [Axiom of Life]."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"BİLİMSEL STATÜ: EVRENSEL BİYOLOJİK AKSİYOM"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, macro biological lighting, luxurious contrast between the glowing fluid and black data pane, clean and sophisticated aesthetic.

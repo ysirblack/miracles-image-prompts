@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The atomic glow fades downwards into a clean, deep 
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the atom).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"DEMİR ATOMİK KODU"
+"Kur'an'da"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Hadid Suresi (57): Merkezi Bölüm"
+"Demir Atomik Kodu: Hadid Suresi 57"
 
-READ LAST (The Narrative Evidence - Complete List):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Atomic Neon Blue:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Atomic Neon Blue.
 
 "• Sure [57], Demir İzotopu [Fe-57] (Kütle No) ile eşleşir."
 
-"• 'Hadid' kelimesinin Ebced Değeri [26]'dır (Proton Sayısı)."
+"• 'Hadid' kelimesinin Ebced Değeri [26] (Proton Sayısı)."
 
-"• 'El-Hadid' kelimesinin Ebced Değeri [57]'dir (İzotop)."
+"• 'El-Hadid' kelimesinin Ebced Değeri [57] (İzotop)."
 
-"• Sure 57, Kuran'ın [Tam Ortasıdır] (Dünya'nın Çekirdeği)."
+"• Sure 57, Kuran'ın [Ortasındadır]."
 
-"• 57:25 Ayeti Demirin [İndirildiğini] (Yıldız Kökeni) bildirir."
+"• 57:25 ayeti demirin [İndirildiğini] bildirir."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL İHTİMAL: ~100 MİLYONDA 1+"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, scientific laboratory lighting, luxurious contrast between the glowing atom and black data pane, clean and sophisticated aesthetic.

@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The scene fades downwards into a clean, deep Librar
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the pen).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"EDEBİ MEYDAN OKUMA"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Bakara Suresi 2:23 ('Benzeri Bir Sure Getirin')"
+"Literary Challenge: Surah 2:23"
 
-READ LAST (The Narrative Evidence - Linguistic Uniqueness):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Inkwell Gold:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Inkwell Gold.
 
-"• 2:23 Ayeti insanlığa onun gibi [Bir Sure] yazması için meydan okur."
+"• 2:23 challenges humanity to produce [One Surah] like it."
 
-"• 7. Yüzyıl Arapları şiir ve dilin [Üstatlarıydı]."
+"• 7th century Arabs were masters of poetry and language."
 
-"• Kuran, tüm ölçü kurallarını yıkan [Eşsiz Bir Tür] getirdi."
+"• The Qur'an introduced a [Unique Genre]."
 
-"• Ne Şiirdir ne de Nesir (Seci)."
+"• Neither Poetry nor Prose (Saj')."
 
-"• Meydan okumaya rağmen, tarih [Sıfır] başarılı rakip kaydeder."
+"• No accepted rival recorded in history."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"TARİHSEL STATÜ: 1400 YILDIR CEVAPSIZ KALAN MEYDAN OKUMA"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, dramatic "spotlight" lighting, luxurious contrast between the glowing text and black data pane, clean and sophisticated aesthetic.

@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The deep water darkness fades downwards into a clea
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the ocean section).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"İÇ DALGALAR KODU"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Nur Suresi 24:40 ('Dalga Üstünde Dalga')"
+"Internal Waves: Surah 24:40"
 
-READ LAST (The Narrative Evidence - Oceanographic Depth):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Deep Abyssal Blue:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Deep Abyssal Blue.
 
-"• Ayet, derin denizin [Dalga üstünde Dalga] ile örtüldüğünü anlatır."
+"• The verse describes the deep sea covered by [Waves upon Waves]."
 
-"• [İç Dalgalar] ile eşleşir: Derinlerdeki devasa dalgalar."
+"• [Internal Waves]: Massive waves in the depths."
 
-"• Bunlar [Piknoklin] (Yoğunluk Sınırı) seviyesinde oluşur."
+"• They occur at the [Pycnocline] (Density Barrier) level."
 
-"• Işığın kaybolduğu [Katmanlı Karanlıkları] tarif eder."
+"• Describes [Layered Darkness]."
 
-"• 1000m altında görüş [Sıfırdır] ('Elini bile göremez')."
+"• Below 1000m, visibility is [Zero]."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"BİLİMSEL STATÜ: ONAYLANMIŞ AKIŞKANLAR DİNAMİĞİ"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, stormy aquatic lighting, luxurious contrast between the turbulent water and black data pane, clean and sophisticated aesthetic.

@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The deep starfield extends seamlessly downwards, fa
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the expansion).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"GENİŞLEYEN EVREN"
+"Kur'an'da"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Zariyat Suresi 51:47 ('Biz Onu Genişleticiyiz')"
+"Genişleyen Evren: Zariyat 51:47"
 
-READ LAST (The Narrative Evidence - Linguistic Precision):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Redshift Crimson:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Redshift Crimson.
 
-"• 51:47 bildirir: 'Şüphesiz Biz [Genişleticiyiz]'."
+"• 51:47 bildirir: 'Biz onu [Genişleticiyiz]'."
 
-"• Arapça [Mûsiûn] kelimesi sürekli, devam eden eylemi anlatır."
+"• Arapça [Mûsiûn] kelimesi sürekli eylemi anlatır."
 
-"• 7. Yüzyıl Görüşü: Evren [Statik] ve sabitti."
+"• 7. yüzyılda evren [Statik] kabul ediliyordu."
 
-"• 20. Yüzyıl Bilimi: [Hubble Yasası] (1929) ile doğrulandı."
+"• 20. yüzyılda [Hubble Yasası] (1929) genişlemeyi gösterdi."
 
-"• Kozmosun temel [Dinamik Doğasını] tarif eder."
+"• Ayet, kozmosun [Dinamik Doğasını] tarif eder."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"BİLİMSEL STATÜ: ONAYLANMIŞ KOZMOLOJİK GERÇEK"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, deep space lighting with redshift accents, luxurious contrast, clean and sophisticated aesthetic.

@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The subterranean rock fades downwards into a clean,
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the geological section).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"DAĞ KÖKLERİ KODU"
+"Kur'an'da"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Nebe Suresi 78:6-7 ('Dağları Kazıklar Yapmadık mı?')"
+"Dağ Kökleri: Nebe 78:6-7"
 
-READ LAST (The Narrative Evidence - Geological Isostasy):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Granite Grey/Gold:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Granite Grey/Gold.
 
-"• Ayet, Dağları [Evtad] (Kazıklar/Çiviler) olarak tanımlar."
+"• Ayet, Dağları [Evtad] (Kazıklar) olarak tanımlar."
 
-"• Çadır kazığının çoğu, tutması için [Yeraltına] gömülür."
+"• Çadır kazığı gibi çoğu [Yeraltına] gömülür."
 
-"• Jeoloji, dağların Mantoda derin [Kökleri] olduğunu doğrular."
+"• Jeoloji, dağların derin [Kökleri] olduğunu gösterir."
 
-"• Kökler, görünen yükseklikten [15 Kat Derin] olabilir."
+"• Kökler görünen yükseklikten daha derin olabilir."
 
-"• Bu fenomen (İzostasi) Yer kabuğunu [Dengeler/Sabitler]."
+"• Bu fenomen (İzostasi) Yer kabuğunu [Dengeler]."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"BİLİMSEL STATÜ: ONAYLANMIŞ JEOFİZİKSEL İZOSTASİ"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, geological cross-section lighting, luxurious contrast between the layered earth and black data pane, clean and sophisticated aesthetic.

@@ -12,28 +12,28 @@ The text is aligned LEFT and anchored to the TOP of the bottom section (starts i
 
 READ FIRST (Top of Text Block - Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"GÜNEŞİN ÖLÜMÜ"
+"Kur'an'da"
 
 READ SECOND (Below Headline - The Bridge):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Tekvir Suresi 81:1 ('Küvvirat' - Dürülüp Sarıldığında)"
+"Güneşin Ölümü: Tekvir Suresi 81:1"
 
-READ LAST (The Narrative Evidence - Stellar Evolution):
+READ LAST (The Narrative Evidence):
 A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Dying Ember Red:
 
 "• 81:1 Ayeti Güneş'in [Dürülüp Sarıldığını] anlatır."
 
 "• Arapça 'Küvvirat' [Sıkışmayı] ve ışık kaybını ifade eder."
 
-"• Bir Yıldızın son evresi: [Beyaz Cüce]'ye çöküş."
+"• Bir yıldızın son evresi: [Beyaz Cüce]'ye çöküş."
 
-"• 81:2 Ayeti Yıldızların [Kararıp Döküldüğünü] (İnkedarat) anlatır."
+"• 81:2 Ayeti yıldızların [Kararıp Döküldüğünü] anlatır."
 
 "• Yıldız yaşamının sonunu ve [Entropiyi] tasvir eder."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"BİLİMSEL STATÜ: DOĞRU YILDIZ EVRİM MODELİ"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, ominous low-key lighting, luxurious contrast between the dying ember and black data pane, clean and sophisticated aesthetic.

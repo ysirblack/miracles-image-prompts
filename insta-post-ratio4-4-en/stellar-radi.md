@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The cosmic background fades downwards into a clean,
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the image).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"YILDIZ YARIÇAP KODU"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Şems Suresi (91) ÷ Necm Suresi (53)"
+"Stellar Radius: Ash-Shams (91) ÷ An-Najm (53)"
 
-READ LAST (The Narrative Evidence - Verified):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Sirius Electric Blue:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Sirius Electric Blue.
 
-"• Sure [91] (Güneş) bölü Sure [53] (Yıldız) = [1.717]."
+"• Surah [91] (Sun) divided by Surah [53] (Star) = [1.717]."
 
-"• Sirius Yarıçapı tam olarak [1.717] Güneş Yarıçapıdır."
+"• Sirius Radius: [1.717] Solar Radii."
 
-"• Sirius, Kuran'da ismi geçen [TEK] yıldızdır."
+"• Sirius is the [ONLY] star named in the Qur'an."
 
-"• Sure Numaraları Oranı, Fiziksel [Boyut Oranı] ile eşleşir."
+"• Surah number ratio matches physical [Size Ratio]."
 
-"• Hassasiyet: [%0.2] Hata Payı (Yüzde birin altında)."
+"• Precision: Approx. [0.2%] margin of error."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL SONUÇ: <%0.25 HATA PAYI"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, cold blue vs warm gold contrast, luxurious layout, clean and sophisticated aesthetic.

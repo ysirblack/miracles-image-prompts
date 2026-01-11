@@ -10,18 +10,18 @@ Negative Space (Bottom 60%): The glowing grid fades downwards into a clean, deep
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the grid).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"PARİTE SİMETRİSİ"
+"Kur'an'da"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"114 Surelik Matematiksel Denge"
+"Parite Simetrisi: 114 Surelik Denge"
 
-READ LAST (The Narrative Evidence - Verified):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Geometric Indigo:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Geometric Indigo.
 
-"• Toplam Sure: [114] (57 Tek / 57 Çift olarak mükemmel bölünür)."
+"• Toplam: [114] sure (57 Tek / 57 Çift olarak bölünür)."
 
 "• Homojen Çiftler (Tek-Tek / Çift-Çift) = [57]."
 
@@ -29,11 +29,11 @@ A bold, legible list of succinct facts using a sophisticated sans-serif font. Ke
 
 "• Çeyrekler: [27] / [30] / [30] / [27] (İç İçe Simetri)."
 
-"• İstatistiksel olarak [Beklenen] ama zarif bir denge yapısı."
+"• Matematiksel denge yapısı."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL DURUM: DOĞAL MATEMATİKSEL UYUM"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, digital data lighting, luxurious contrast between the glowing grid and black data pane, clean and sophisticated aesthetic.

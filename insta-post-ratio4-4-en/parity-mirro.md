@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,32 @@ Negative Space (Bottom 60%): The reflective surface fades downwards into a clean
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the pillars).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"PARİTE AYNASI"
+"In the Qur'an"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Uzun vs. Kısa Sureler (27/30 Takası)"
+"Parity Mirror: Long vs. Short Surahs"
 
-READ LAST (The Narrative Evidence - Verified):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Reflective Chrome:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Reflective Chrome.
 
-"• Kuran'ı Uzunluğa göre böl: [Uzun] (≥40) vs [Kısa] (<40)."
+"• Divide by length: Long (≥40 verses) vs Short (≤38 verses)."
 
-"• Sonuç: Tam [57 Uzun] ve [57 Kısa] sure."
+"• Example: Surah 3 (200 verses) = Long. Surah 114 (6 verses) = Short."
 
-"• Uzun Grup Paritesi: [27 Tek] / [30 Çift]."
+"• Result: [57] Long surahs, [57] Short surahs. No surah has 39 verses!"
 
-"• Kısa Grup Paritesi: [30 Tek] / [27 Çift] (Mükemmel Takas)."
+"• Long group by position: [27] at odd positions, [30] at even."
 
-"• Neden 40'tan bölündü? Çünkü [39] ayetli hiçbir sure YOKTUR."
+"• Short group by position: [30] at odd, [27] at even — Mirror swap!"
+
+"• Pattern: 27/30 ↔ 30/27. Numbers swap between groups."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL DURUM: MÜKEMMEL SİMETRİK TERS ÇEVİRME"
+"OBSERVED NUMERICAL PATTERNS"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, glass and reflection lighting, luxurious contrast between the pillars and black data pane, clean and sophisticated aesthetic.

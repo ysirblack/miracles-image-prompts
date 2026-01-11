@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The lunar horizon fades sharply downwards into a cl
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the image).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"AY'A İNİŞ KEHANETİ"
+"Kur'an'da"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Kamer Suresi 54:1 → 1389 Hicri Yılı"
+"Ay'a İniş: Kamer Suresi 54:1"
 
-READ LAST (The Narrative Evidence - Complete List):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Lunar Platinum:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Lunar Platinum.
 
 "• 54:1 ayeti bildirir: '[Ay] yarıldı'."
 
-"• Bu ayetten Kuran'ın sonuna kadar tam [1,389 Ayet] vardır."
+"• Bu ayetten Kuran'ın sonuna tam olarak [1,389 Ayet] vardır."
 
 "• İnsanlık Ay'a Hicri [1389] yılında ayak bastı."
 
-"• 1389 Hicri, [1969 Miladi] (Apollo 11) yılına denktir."
+"• 1389 Hicri = [1969 Miladi] (Apollo 11)."
 
-"• Matematiksel Yapı, [Ay Yılını] tam olarak kodlar."
+"• Matematiksel yapı [Hicri Yılını] kodlar."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL İHTİMAL: ~100 MİLYONDA 1+"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, cold space lighting, luxurious contrast, clean and sophisticated aesthetic.

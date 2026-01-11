@@ -12,13 +12,13 @@ The text is aligned LEFT and anchored to the TOP of the bottom section (starts i
 
 READ FIRST (Top of Text Block - Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"GÜNEŞ YILI KODU"
+"Kur'an'da"
 
 READ SECOND (Below Headline - The Bridge):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"365 Günlük Dilbilimsel Toplam"
+"Güneş Yılı: 365 Günlük Dilbilimsel Toplam"
 
-READ LAST (The Narrative Evidence - Exact Breakdown):
+READ LAST (The Narrative Evidence):
 A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Daylight Gold:
 
 "• Yalın Haller 'Gün' (Yevm): Tam olarak [274] adet."
@@ -31,11 +31,11 @@ A bold, legible list of succinct facts using a sophisticated sans-serif font. Ke
 
 "• Tekil 'Ay' (Şehr) kelimesi: Tam olarak [12] (Yıllık Döngü)."
 
-"• [354 Günlük] Ay Hesabını mükemmel şekilde tamamlar."
+"• [354 Günlük] Ay hesabını tamamlar."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL İHTİMAL: ~2,500'DE 1 (BİRLEŞİK DESEN)"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, bright solar lighting, luxurious contrast between the orbital path and black data pane, clean and sophisticated aesthetic.
