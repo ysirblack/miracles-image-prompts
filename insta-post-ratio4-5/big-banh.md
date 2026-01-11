@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The exploding light fades seamlessly downwards into
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the explosion).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"BÜYÜK PATLAMA KODU"
+"Kur'an'da"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Enbiya Suresi 21:30 (Kozmik Tekillik)"
+"Sure 21:30 (Enbiya): Kozmik Tekillik"
 
-READ LAST (The Narrative Evidence - Linguistic Precision):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Primordial Gold:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Primordial Gold.
 
-"• Ayet, Gökler ve Yerin [Bitişik] (Ratk) olduğunu bildirir."
+"• Ayet, Gökler ve Yerin [Bitişik] ('Ratk') olduğunu belirtir."
 
-"• Sonra onları [Ayırdık/Yırttık] (Fatakna)."
+"• Sonra onların [Ayrıldığı/Yırtıldığı] ('Fatak') ifade edilir."
 
-"• Büyük Patlama'nın [Başlangıç Tekilliği] ile eşleşir."
+"• Büyük Patlama'nın [Başlangıç Tekilliği] kavramıyla örtüşür."
 
-"• Tüm madde ve uzay bir zamanlar [Tek Bir Kütleydi]."
+"• Tüm madde ve uzay bir zamanlar [Tek Kütle] idi."
 
-"• [Lemaître]'in 'İlk Atom' teorisinden 1300 yıl önce."
+"• Lemaître'in teorisinden yak. [1300 Yıl] öncesi."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"BİLİMSEL STATÜ: STANDART KOZMOLOJİK MODEL"
+"GÖZLEMLENEN KAVRAMSAL PARALELLİKLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, explosive high-energy lighting, luxurious contrast between the blinding light and black data pane, clean and sophisticated aesthetic.

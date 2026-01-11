@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The swirling cosmic smoke fades seamlessly downward
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the smoke).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"KOZMİK DUMAN KODU"
+"Kur'an'da"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Fussilet Suresi 41:11 ('O Halde Dumandı')"
+"Sure 41:11 (Fussilet): Erken Evrenin Durumu"
 
-READ LAST (The Narrative Evidence - Cosmological State):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Primordial Ember Orange:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Primordial Ember Orange.
 
-"• Ayet, erken Evreni [Duhan] (Duman) olarak tanımlar."
+"• Ayet, göğün başlangıçta [Duman] ('Duhan') halinde olduğunu belirtir."
 
-"• Sıcak gazı, soğuk 'bulutlardan' hassasça [Ayırır]."
+"• Modern Kozmoloji, erken evrenin opak bir [Sıcak Gaz] olduğunu doğrular."
 
-"• Erken evrenin [Opak Dönemi] ile eşleşir."
+"• 'Duman' kelimesi, soğuk bulutların aksine [Isı] içerir."
 
-"• Kozmik Duman (Sıcak Gaz), tüm yıldızların [Kökenidir]."
+"• Bu ifade, yıldızlar oluşmadan önceki [Opak Dönemi] tarif eder."
 
-"• Kütleçekimi gazı [Yoğunlaşmaya] ve galaksileri oluşturmaya zorladı."
+"• Galaksiler ve yıldızlar bu duman benzeri gazdan [Yoğunlaşmıştır]."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"BİLİMSEL STATÜ: DOĞRU KOZMOLOJİK EVRE"
+"GÖZLEMLENEN KOZMOLOJİK PARALELLİKLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, volumetric lighting, luxurious contrast between the glowing gas and black data pane, clean and sophisticated aesthetic.

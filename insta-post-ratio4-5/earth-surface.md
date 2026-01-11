@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,32 +10,32 @@ Negative Space (Bottom 60%): The planetary glow fades downwards into a clean, de
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the planet).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"YERYÜZÜ ORANI KODU"
+"Kur'an'da"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"%71 / %29 Oran Hizalaması"
+"Kelime Sayımları: Deniz ve Kara Oranı"
 
-READ LAST (The Narrative Evidence - Exact Breakdown):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Oceanic Teal:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Oceanic Teal.
 
-"• 'Deniz' (El-Bahr) kelimesi tam [32] kez geçer."
+"• 'Deniz' (El-Bahr) kelimesi [32] kez geçer."
 
-"• 'Kara' (El-Berr) kelimesi tam [12] kez geçer."
+"• 'Kara' (El-Berr + Yebesen) kelimesi [13] kez geçer."
 
-"• 'Kuru Yol' (Yebesen) kelimesi tam [1] kez geçer."
+"• Toplam (Deniz + Kara) sayısı [45]'tir."
 
-"• Toplam Oran: [32 Deniz] ve [13 Kara]."
+"• Deniz Oranı: 32 ÷ 45 = yak. [%71.1]."
 
-"• Yüzdelik: [%71.1 Su] / [%28.9 Kara]."
+"• Kara Oranı: 13 ÷ 45 = yak. [%28.9]."
 
-"• Dünya'nın gerçek jeolojik oranıyla [%0.1] farkla eşleşir."
+"• Dünya'nın gerçek [%71 Su] ve [%29 Kara] oranıyla eşleşir."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL DURUM: MÜKEMMEL JEOFİZİKSEL EŞLEŞME"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, orbital sunlight, luxurious contrast between the blue earth and black data pane, clean and sophisticated aesthetic.

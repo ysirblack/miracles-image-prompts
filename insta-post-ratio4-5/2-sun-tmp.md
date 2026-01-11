@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,32 +10,30 @@ Negative Space (Bottom 60%): The intense heat light fades quickly downwards into
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the visual).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"GÜNEŞ SICAKLIK KODU"
+"Kur'an'da"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"İlk Geçiş (2:258) → Son Geçiş (91:1)"
+"'Güneş' Kelimesi: İlk (2:258) ve Son (91:1) Geçiş"
 
-READ LAST (The Narrative Evidence - Complete List):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Intense Kelvin Gold:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Intense Kelvin Gold.
 
-"• 'Güneş Zarfı': İlk ve Son [Güneş] kelimesi arası sayım."
+"• İlk ve son 'Güneş' kelimesi arasındaki ayetlerin sayımı."
 
-"• Aradaki Ayet Sayısı tam olarak [5,778]'dir."
+"• Ayet Sayısı: Tam olarak [5,778]."
 
-"• Güneşin Yüzey Sıcaklığı [5,778 Kelvin]'dir (NASA Std)."
+"• Güneş Yüzey Sıcaklığı (Kelvin): Tam olarak [5,778 K]."
 
-"• Mükemmel Eşleşme: [±0] sapma."
+"• Fark: [0]."
 
-"• [89 Sureyi] kapsayarak kitabın yapısını kilitler."
-
-"• 7. Yüzyıl: [Kelvin] yok, [Spektroskopi] yok, [Fizik] yok."
+"• 7. Yüzyıl: [Kelvin] veya [Spektroskopi] bilinmiyordu."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL İHTİMAL: ~10 MİLYONDA 1+"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, bright "heat" lighting radiating from the top, luxurious contrast, clean and sophisticated aesthetic.

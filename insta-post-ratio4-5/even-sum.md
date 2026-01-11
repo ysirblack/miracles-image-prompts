@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The spiral code fades downwards into a clean, deep 
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the helix).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"ÇİFT TOPLAM SENFONİSİ"
+"Kur'an'da"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"İkili Muhasebe Sistemi (Sure No + Ayet)"
+"Tek ve Çift Toplamlar: Sure No + Ayet Sayısı"
 
-READ LAST (The Narrative Evidence - Verified):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Harmonic Gold:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Harmonic Gold.
 
-"• Tüm 114 sure için [Sure No] + [Ayet Sayısı] toplanır."
+"• 114 Surenin her biri için [Sure No] + [Ayet Sayısı] toplanır."
 
-"• Sonuç: Tam [57 Çift] ve [57 Tek] toplam."
+"• Sonuç: Tam olarak [57 Tek] ve [57 Çift] sonuç çıkar."
 
-"• Çift Grubun Toplamı = [6,236] (Kuran'ın Toplam Ayet Sayısı)."
+"• Çift Sonuçların Toplamı = [6,236] (Toplam Ayet Sayısı)."
 
-"• Tek Grubun Toplamı = [6,555] (1-114 arası sayıların toplamı)."
+"• Tek Sonuçların Toplamı = [6,555] (1-114 arası sayıların toplamı)."
 
-"• Kitabın tamamı için mükemmel bir matematiksel sağlama."
+"• Kitabın tamamı için tam bir matematiksel sağlama sunar."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL İHTİMAL: ~833'TE 1 (%0.12)"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, elegant data visualization lighting, luxurious contrast between the spiral code and black data pane, clean and sophisticated aesthetic.

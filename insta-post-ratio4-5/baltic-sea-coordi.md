@@ -1,4 +1,4 @@
-Prompt: aspect_ratio="4:5"
+aspect_ratio="4:5"
 
 (1) The Vertical Layout (40/60 Split):
 A single, cohesive 4:5 cinematic vertical shot (Instagram Feed ratio).
@@ -10,30 +10,30 @@ Negative Space (Bottom 60%): The water texture fades downwards into a clean, dee
 (2) Text Hierarchy (Bottom 60% - Top Aligned):
 The text is aligned LEFT and anchored to the TOP of the bottom section (starts immediately below the sea).
 
-READ FIRST (Top of Text Block - Headline):
+READ FIRST (Headline):
 In massive, elegant, high-end Modern Serif font (Pure White):
-"BALTIK DENİZİ KOORDİNATLARI"
+"Kur'an'da"
 
-READ SECOND (Below Headline - The Bridge):
+READ SECOND (Subtitle):
 In a refined, lighter weight italic Serif font (Silver/Grey):
-"Rahman Suresi 55:19-20 (Deniz Engeli)"
+"Sure 55:19-20 (Rahman): İki Deniz Arasındaki Engel"
 
-READ LAST (The Narrative Evidence - Complete List):
-A bold, legible list of succinct facts using a sophisticated sans-serif font. Key numbers are accented in Vibrant Ocean Turquoise:
+READ LAST (The List):
+A bold, legible list using a sophisticated sans-serif font. Key numbers are accented in Vibrant Ocean Turquoise.
 
-"• Sure No [55], Enlem [55°N] ile eşleşir."
+"• Sure Numarası [55], Enlem [55°K] ile eşleşir."
 
-"• Ayetler [19-20], Boylam [19°E - 20°E] ile eşleşir."
+"• Ayetler [19-20], Boylam [19°D - 20°D] ile eşleşir."
 
-"• Koordinatlar [Gdansk Körfezini] (Baltık Denizi) işaret eder."
+"• Bu kesişim [Baltık Denizi]'ni (Gdansk Körfezi) işaret eder."
 
-"• Ayetler, iki deniz arasındaki [Engeli] tarif eder."
+"• Ayetler, iki su kütlesi arasındaki [Engeli] tarif eder."
 
-"• Gerçek [Haloklin] tatlı-tuzlu su bariyeri ile uyuşur."
+"• Bu konumda belirgin bir tatlı-tuzlu su [Haloklin] sınırı vardır."
 
 THE FOOTER (Very Bottom Edge):
 Separated by a thin line, in small caps:
-"İSTATİSTİKSEL İHTİMAL: ~1 MİLYONDA 1+"
+"GÖZLEMLENEN SAYISAL DESENLER"
 
 (3) Atmosphere:
 Premium 4K vertical poster quality, incredibly sharp typography, natural daylight lighting, luxurious contrast between the blue waters and black data pane, clean and sophisticated aesthetic.
